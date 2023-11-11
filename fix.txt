@@ -1,0 +1,9 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.elasticsearch</groupId
+	<artifactId>elasticsearch</artifactId
+	<version>${project.version}</version
+</dependency>
+```
